@@ -1,0 +1,14 @@
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.IoC.deps.json
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.IoC.dll
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.csprojAssemblyReference.cache
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.csproj.CoreCompileInputs.cache
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.AssemblyInfoInputs.cache
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.AssemblyInfo.cs
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.IoC.pdb
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.Application.dll
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.Domain.dll
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.Domain.pdb
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.Application.pdb
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.csproj.CopyComplete
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.dll
+C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.pdb
