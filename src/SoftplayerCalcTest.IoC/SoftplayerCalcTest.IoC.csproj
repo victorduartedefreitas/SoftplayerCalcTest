@@ -9,8 +9,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\SoftplayerCalcTest.Domain\SoftplayerCalcTest.Domain.csproj" />
     <ProjectReference Include="..\SoftplayerCalcTest.Application\SoftplayerCalcTest.Application.csproj" />
+    <ProjectReference Include="..\SoftplayerCalcTest.Domain\SoftplayerCalcTest.Domain.csproj" />
   </ItemGroup>
 
 </Project>

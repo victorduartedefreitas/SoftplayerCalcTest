@@ -12,3 +12,17 @@ C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\De
 C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.csproj.CopyComplete
 C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.dll
 C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.pdb
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.IoC.deps.json
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.IoC.dll
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.IoC.pdb
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.Application.dll
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.Domain.dll
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.Application.pdb
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\bin\Debug\netstandard2.0\SoftplayerCalcTest.Domain.pdb
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.csprojAssemblyReference.cache
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.csproj.CoreCompileInputs.cache
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.AssemblyInfoInputs.cache
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.AssemblyInfo.cs
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.csproj.CopyComplete
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.dll
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.IoC\obj\Debug\netstandard2.0\SoftplayerCalcTest.IoC.pdb

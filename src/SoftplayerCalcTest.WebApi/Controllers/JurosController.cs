@@ -16,10 +16,7 @@ namespace SoftplayerCalcTest.WebApi.Controllers
 
         public JurosController(ICalculoJurosService calculoJurosService)
         {
-            if (calculoJurosService == null)
-                throw new ArgumentNullException(nameof(calculoJurosService));
-
-            _calculoJurosService = calculoJurosService;
+            _calculoJurosService = calculoJurosService ?? throw new ArgumentNullException(nameof(calculoJurosService));
         }
 
         [HttpGet("calculajuros")]
@@ -30,7 +27,13 @@ namespace SoftplayerCalcTest.WebApi.Controllers
             if (calculo == null)
                 return BadRequest("Não foi possível efetuar o cálculo.");
 
-            return Ok();
+            return Ok(calculo.ValorFinal);
+        }
+
+        [HttpGet("showmethecode")]
+        public IActionResult ShowMeTheCode()
+        {
+            return Ok("https://github.com/victorduartedefreitas/SoftplayerCalcTest");
         }
     }
 }

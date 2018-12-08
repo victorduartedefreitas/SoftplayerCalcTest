@@ -10,3 +10,15 @@ C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.Applicatio
 C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\obj\Debug\netstandard2.0\SoftplayerCalcTest.Application.csproj.CopyComplete
 C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\obj\Debug\netstandard2.0\SoftplayerCalcTest.Application.dll
 C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\obj\Debug\netstandard2.0\SoftplayerCalcTest.Application.pdb
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\bin\Debug\netstandard2.0\SoftplayerCalcTest.Application.deps.json
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\bin\Debug\netstandard2.0\SoftplayerCalcTest.Application.dll
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\bin\Debug\netstandard2.0\SoftplayerCalcTest.Application.pdb
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\bin\Debug\netstandard2.0\SoftplayerCalcTest.Domain.dll
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\bin\Debug\netstandard2.0\SoftplayerCalcTest.Domain.pdb
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\obj\Debug\netstandard2.0\SoftplayerCalcTest.Application.csprojAssemblyReference.cache
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\obj\Debug\netstandard2.0\SoftplayerCalcTest.Application.csproj.CoreCompileInputs.cache
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\obj\Debug\netstandard2.0\SoftplayerCalcTest.Application.AssemblyInfoInputs.cache
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\obj\Debug\netstandard2.0\SoftplayerCalcTest.Application.AssemblyInfo.cs
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\obj\Debug\netstandard2.0\SoftplayerCalcTest.Application.csproj.CopyComplete
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\obj\Debug\netstandard2.0\SoftplayerCalcTest.Application.dll
+D:\Projetos\git\SoftplayerCalcTest\src\SoftplayerCalcTest.Application\obj\Debug\netstandard2.0\SoftplayerCalcTest.Application.pdb

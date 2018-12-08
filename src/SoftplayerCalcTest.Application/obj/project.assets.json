@@ -40,10 +40,12 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "2BwM9Iw8yu+fypzFuabeCvsdGCyjOk9fJsQryamurIOYRCyrcBYCpbfMzuuC5mEBMyEj4IvXzRnXcqCf2+UFcA==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -181,8 +183,8 @@
     },
     "SoftplayerCalcTest.Domain/1.0.0": {
       "type": "project",
-      "path": "../../SoftplayerCalcTest.Domain/SoftplayerCalcTest.Domain.csproj",
-      "msbuildProject": "../../SoftplayerCalcTest.Domain/SoftplayerCalcTest.Domain.csproj"
+      "path": "../SoftplayerCalcTest.Domain/SoftplayerCalcTest.Domain.csproj",
+      "msbuildProject": "../SoftplayerCalcTest.Domain/SoftplayerCalcTest.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -192,23 +194,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bsi90778\\.nuget\\packages\\": {},
+    "C:\\Users\\victo\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Victor\\Projetos_Pessoais\\SoftplayerCalcTest\\src\\SoftplayerCalcTest.Application\\SoftplayerCalcTest.Application.csproj",
+      "projectUniqueName": "D:\\Projetos\\git\\SoftplayerCalcTest\\src\\SoftplayerCalcTest.Application\\SoftplayerCalcTest.Application.csproj",
       "projectName": "SoftplayerCalcTest.Application",
-      "projectPath": "C:\\Victor\\Projetos_Pessoais\\SoftplayerCalcTest\\src\\SoftplayerCalcTest.Application\\SoftplayerCalcTest.Application.csproj",
-      "packagesPath": "C:\\Users\\bsi90778\\.nuget\\packages\\",
-      "outputPath": "C:\\Victor\\Projetos_Pessoais\\SoftplayerCalcTest\\src\\SoftplayerCalcTest.Application\\obj\\",
+      "projectPath": "D:\\Projetos\\git\\SoftplayerCalcTest\\src\\SoftplayerCalcTest.Application\\SoftplayerCalcTest.Application.csproj",
+      "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
+      "outputPath": "D:\\Projetos\\git\\SoftplayerCalcTest\\src\\SoftplayerCalcTest.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\bsi90778\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\victo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -216,13 +218,13 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Victor\\Projetos_Pessoais\\SoftplayerCalcTest\\SoftplayerCalcTest.Domain\\SoftplayerCalcTest.Domain.csproj": {
-              "projectPath": "C:\\Victor\\Projetos_Pessoais\\SoftplayerCalcTest\\SoftplayerCalcTest.Domain\\SoftplayerCalcTest.Domain.csproj"
+            "D:\\Projetos\\git\\SoftplayerCalcTest\\src\\SoftplayerCalcTest.Domain\\SoftplayerCalcTest.Domain.csproj": {
+              "projectPath": "D:\\Projetos\\git\\SoftplayerCalcTest\\src\\SoftplayerCalcTest.Domain\\SoftplayerCalcTest.Domain.csproj"
             }
           }
         }

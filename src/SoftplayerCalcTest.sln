@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9 Presentation", "9 Present
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 Core", "0 Core", "{B5D215EE-61EA-4377-874F-D65CFB5A709E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftplayerCalcTest.Domain", "..\SoftplayerCalcTest.Domain\SoftplayerCalcTest.Domain.csproj", "{79DA06B8-40A7-4BE9-B5CF-9601852FC951}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftplayerCalcTest.Domain", "SoftplayerCalcTest.Domain\SoftplayerCalcTest.Domain.csproj", "{79DA06B8-40A7-4BE9-B5CF-9601852FC951}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftplayerCalcTest.Application", "SoftplayerCalcTest.Application\SoftplayerCalcTest.Application.csproj", "{BDE4A995-AC35-456E-9A2A-6F29E117918C}"
 EndProject

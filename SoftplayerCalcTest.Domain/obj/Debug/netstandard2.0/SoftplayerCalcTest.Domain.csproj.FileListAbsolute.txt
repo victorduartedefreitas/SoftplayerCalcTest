@@ -1,9 +1,0 @@
-C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\SoftplayerCalcTest.Domain\bin\Debug\netstandard2.0\SoftplayerCalcTest.Domain.deps.json
-C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\SoftplayerCalcTest.Domain\bin\Debug\netstandard2.0\SoftplayerCalcTest.Domain.dll
-C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\SoftplayerCalcTest.Domain\bin\Debug\netstandard2.0\SoftplayerCalcTest.Domain.pdb
-C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\SoftplayerCalcTest.Domain\obj\Debug\netstandard2.0\SoftplayerCalcTest.Domain.csprojAssemblyReference.cache
-C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\SoftplayerCalcTest.Domain\obj\Debug\netstandard2.0\SoftplayerCalcTest.Domain.csproj.CoreCompileInputs.cache
-C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\SoftplayerCalcTest.Domain\obj\Debug\netstandard2.0\SoftplayerCalcTest.Domain.AssemblyInfoInputs.cache
-C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\SoftplayerCalcTest.Domain\obj\Debug\netstandard2.0\SoftplayerCalcTest.Domain.AssemblyInfo.cs
-C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\SoftplayerCalcTest.Domain\obj\Debug\netstandard2.0\SoftplayerCalcTest.Domain.dll
-C:\Victor\Projetos_Pessoais\SoftplayerCalcTest\SoftplayerCalcTest.Domain\obj\Debug\netstandard2.0\SoftplayerCalcTest.Domain.pdb
